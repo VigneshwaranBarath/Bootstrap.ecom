@@ -48,3 +48,14 @@
     font-weight: 300;
     border-color: green;
 }
+
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
